@@ -27,7 +27,7 @@ export function ContactForm() {
   return (
     <Card className="max-w-md mx-auto mb-24">
       <CardHeader>
-        <CardTitle className={"text-center mb-5 mt-5"}>We'll come back to you soon !</CardTitle>
+        <CardTitle className={"text-center mb-5 mt-5"}>We&apos;ll come back to you soon !</CardTitle>
       </CardHeader>
       <CardContent>
         <form className="grid gap-4">

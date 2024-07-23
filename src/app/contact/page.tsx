@@ -79,7 +79,7 @@ export default function Page() {
                         <div className="container grid grid-cols-1 gap-8 px-4 md:grid-cols-2 md:gap-16 md:px-6">
                             <div className="flex flex-col items-start space-y-4">
                                 <h2 className="text-3xl font-bold text-foreground sm:text-4xl md:text-5xl">Enjoy the
-                                    moment at it's best</h2>
+                                    moment at it&apos;s best</h2>
                                 <p className="text-muted-foreground md:text-xl">
                                     Sign up for our newsletter and be the first to know about our latest updates,
                                     industry insights, and
