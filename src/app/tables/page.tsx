@@ -75,7 +75,7 @@ export default function Home() {
             <section className="bg-muted py-12 md:py-24 lg:py-32">
               <div className="container grid grid-cols-1 gap-8 px-4 md:grid-cols-2 md:gap-16 md:px-6">
                 <div className="flex flex-col items-start space-y-4">
-                  <h2 className="text-3xl font-bold text-foreground sm:text-4xl md:text-5xl">Don't miss any chance to miss the best discounts</h2>
+                  <h2 className="text-3xl font-bold text-foreground sm:text-4xl md:text-5xl">Don&apos;t miss any chance to miss the best discounts</h2>
                   <p className="text-muted-foreground md:text-xl">
                     Sign up for our newsletter and be the first to know about our latest updates, industry insights, and
                     exclusive offers.
